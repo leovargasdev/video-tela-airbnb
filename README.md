@@ -2,7 +2,7 @@
   Repositório template - Tela do airbnb
 </h1>
 
-<img src="./.github/preview.png" width="100%" />
+<img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 
 ## 💻 Projeto
 
